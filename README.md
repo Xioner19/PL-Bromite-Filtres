@@ -1,9 +1,6 @@
 ## filtrite
 ## filtrite/PL-Bromite-Filtres
-[PL] filtrite to projekt służcy do tworzenia list z filtrami dla przeglądarki [Bromite](https://www.bromite.org/). Zobacz stronę o [Niestandardowych filtrach blokujących reklamy](https://www.bromite.org/custom-filters) po więcej informacji. Polski plik jest dostępny [TUTAJ](https://github.com/Xioner19/PL-Bromite-Filtres/releases/latest/download/polish.dat)
-
-filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/). See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
-
+[PL] filtrite to projekt służcy do tworzenia list z filtrami dla przeglądarki [Bromite](https://www.bromite.org/) oraz [Cromite](https://www.cromite.org/). Zobacz stronę o [Niestandardowych filtrach blokujących reklamy](https://www.bromite.org/custom-filters) po więcej informacji. Polski plik jest dostępny [TUTAJ](https://github.com/Xioner19/PL-Bromite-Filtres/releases/latest/download/polish.dat)
 <p align="center">
      <a href="https://github.com/Xioner19/PL-Bromite-Filtres/releases">
     <img src="https://img.shields.io/github/downloads/Xioner19/PL-Bromite-Filtres/total"
